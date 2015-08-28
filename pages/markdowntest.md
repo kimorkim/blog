@@ -75,22 +75,34 @@ _\_기울이기\__
 <br/><br/><br/>
 [ecko_icon alias="fa-bookmark-o"] ecko_icon alias="fa-bookmark-o" 폰트어썸 코드삽입
 <br/><br/><br/>
-[ecko_annotated header="title" annotation="description"]ecko_annotated header="title" annotation="description"][/ecko_annotated]
+[ecko_annotated header="title" annotation="description"]
+ecko_annotated header="title" annotation="description"
+[/ecko_annotated]
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-[ecko_toggle style="solid" state="closed" title="title"]ecko_toggle style="solid" state="closed" title="title"[/ecko_toggle]
+### 토글 솔리드
+[ecko_toggle style="solid" state="closed" title="title"]
+ecko_toggle style="solid" state="closed" title="title"[/ecko_toggle]
 <br/><br/><br/>
+### 컬럼나누기
 [ecko_columns][ecko_columns_left] ecko_columns ecko_columns_left [/ecko_columns_left][ecko_columns_right] ecko_columns_right [/ecko_columns_right][/ecko_columns]
 <br/><br/><br/>
-ecko_tabs
-[ecko_tabs][ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content][/ecko_tabs]
+### 에코탭 ecko_tabs
+[ecko_tabs]
+[ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content]
+[ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content]
+[/ecko_tabs]
 <br/><br/>
+### 유튜브 링크
 ecko_youtube -- lenFvO3-3OU
 [ecko_youtube]lenFvO3-3OU[/ecko_youtube]
 <br/><br/>
+### 상태 메세지
 [ecko_statusmessage]ecko_statusmessage[/ecko_statusmessage]
 <br/><br/>
+### 인용
 [ecko_quote source="source"]ecko_quote source="source"[/ecko_quote]
 <br/><br/>
+### 이미지 갤러리..(문제가 있는듯?)
 ecko_gallery_main -- ecko_gallery_item
 [ecko_gallery_main]
 [ecko_gallery_item]
@@ -101,10 +113,15 @@ ecko_gallery_main -- ecko_gallery_item
 [/ecko_gallery_item]
 [/ecko_gallery_main]
 <br/><br/>
+### 와이드 텍스트처리
 [ecko_wide]ecko_wide[/ecko_wide]
 <br/><br/>
+### 집중..(배경 어둠게)
 [ecko_contrast]ecko_contrast[/ecko_contrast]
 <br/><br/>
+### 전체이미지처리
 ecko_fullpage_image
-[ecko_fullpage_image]![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)[/ecko_fullpage_image]
+[ecko_fullpage_image]
+![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
+[/ecko_fullpage_image]
 [^1]: \[^1\]출저, 혹은 덧붙이는 내용
