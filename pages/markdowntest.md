@@ -76,6 +76,18 @@ _\_기울이기\__
 [ecko_code_highlight language="javascript"]
 console.log('aaa');
 [/ecko_code_highlight]
+[ecko_code_highlight language="javascript"]
+console.log('aaa');
+[/ecko_code_highlight]
+
+[ecko_code_highlight language="javascript"]
+console.log('aaa');
+[/ecko_code_highlight]
+
+[ecko_code_highlight language="javascript"]
+console.log('aaa');
+[/ecko_code_highlight]
+
 
 
 
