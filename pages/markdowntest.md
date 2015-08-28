@@ -87,9 +87,8 @@ _\_기울이기\__
 <br/><br/><br/>
 [ecko_columns][ecko_columns_left] ecko_columns ecko_columns_left [/ecko_columns_left][ecko_columns_right] ecko_columns_right [/ecko_columns_right][/ecko_columns]
 <br/><br/><br/>
-[ecko_tabs]ecko_tabs[/ecko_tabs]
-<br/><br/><br/>
-[ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content]
+ecko_tabs
+[ecko_tabs][ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content][/ecko_tabs]
 <br/><br/>
 ecko_youtube -- lenFvO3-3OU
 [ecko_youtube]lenFvO3-3OU[/ecko_youtube]
@@ -100,7 +99,8 @@ ecko_youtube -- lenFvO3-3OU
 <br/><br/>
 ecko_gallery_main -- ecko_gallery_item
 [ecko_gallery_main]
-[ecko_gallery_item]![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
+[ecko_gallery_item]
+![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
 [/ecko_gallery_item]
 [ecko_gallery_item]
 ![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
@@ -111,5 +111,6 @@ ecko_gallery_main -- ecko_gallery_item
 <br/><br/>
 [ecko_contrast]ecko_contrast[/ecko_contrast]
 <br/><br/>
+ecko_fullpage_image
 [ecko_fullpage_image]![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)[/ecko_fullpage_image]
 [^1]: \[^1\]출저, 혹은 덧붙이는 내용
