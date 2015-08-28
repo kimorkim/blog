@@ -73,8 +73,13 @@ _\_기울이기\__
 ---
 [ecko_code_highlight language="javascript"]console.log('aaa');
 [/ecko_code_highlight]
-
-
-
+[ecko_alert color="gray"]ecko_alert color="gray"[/ecko_alert]
+[ecko_alert color="blue"]ecko_alert color="blue"[/ecko_alert]
+[ecko_alert color="green"]ecko_alert color="green"[/ecko_alert]
+[ecko_alert color="orange"]ecko_alert color="orange"[/ecko_alert]
+[ecko_alert color="red"]ecko_alert color="red"[/ecko_alert]
+[ecko_icon alias="f097"] ecko_icon alias="f097" 폰트어썸 코드삽입
+[ecko_annotated header="title" annotation="description"]ecko_annotated header="title" annotation="description"[/ecko_annotated]
+[ecko_toggle style="solid" state="closed" title="title"]ecko_toggle style="solid" state="closed" title="title"[/ecko_toggle]
 
 [^1]: \[^1\]출저, 혹은 덧붙이는 내용
