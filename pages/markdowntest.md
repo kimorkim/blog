@@ -1,6 +1,6 @@
 # 마크다운테스트
 
-제목마크다운  
+제목마크다운
 ---
 # #제목수준1
 ## ##제목수준2
@@ -8,13 +8,13 @@
 #### ####제목수준4
 ##### #####제목수준5
 <br/>
-<br/>  
+<br/>
 
 굵게, 기울이기
 ---
-** \*\* 굵게 \*\* **  
-_\_기울이기\__  
-*\*기울이기\**  
+** \*\* 굵게 \*\* **
+_\_기울이기\__
+*\*기울이기\**
 <br/>
 <br/>
 
@@ -30,11 +30,11 @@ _\_기울이기\__
 ---
 * \* 항목
 * \* 항목2
-* \* 항목3  
+* \* 항목3
 또는
 - \- 항목
 - \- 항목2
-- \- 항목3  
+- \- 항목3
 <br/><br/>
 
 인용문
@@ -44,10 +44,10 @@ _\_기울이기\__
 
 링크
 ---
-<http://www.usbsync.net/trend/>  
+<http://www.usbsync.net/trend/>
 \<URL주소\> 바로 링크
 
-[트렌드](http://www.usbsync.net/trend/)  
+[트렌드](http://www.usbsync.net/trend/)
 \[글자\]\(URL 주소\)
 <br/><br/>
 
@@ -59,45 +59,22 @@ _\_기울이기\__
 
 취소선
 ---
-~~취소선~~  
+~~취소선~~
 ~~ 취소선 ~~
 <br/><br/>
 
 주석달기
 ---
-주석을 달 문장 \[^1\][^1]
-<br/><br/>
-
-표그리기
----
-제목|제목|제목  
----|---|---  
-항목1|항목2|항목3  
+주석을 달 문장 \[^1\] [^1]
 <br/><br/>
 
 
 숏코드 적용
 ---
-[ecko_code_highlight language="javascript"]
-console.log('aaa');
-[/ecko_code_highlight]
-[ecko_code_highlight language="javascript"]
-console.log('aaa');
-[/ecko_code_highlight]
-
-[ecko_code_highlight language="javascript"]
-console.log('aaa');
-[/ecko_code_highlight]
-
-[ecko_code_highlight language="javascript"]
-console.log('aaa');
+[ecko_code_highlight language="javascript"]console.log('aaa');
 [/ecko_code_highlight]
 
 
 
 
-
-
-
-
-[^1]:\[^1\]출저, 혹은 덧붙이는 내용
+[^1]: \[^1\]출저, 혹은 덧붙이는 내용
