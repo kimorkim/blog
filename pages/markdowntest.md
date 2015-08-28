@@ -57,12 +57,6 @@ _\_기울이기\__
 ![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
 <br/><br/>
 
-취소선
----
-~~취소선~~
-~~ 취소선 ~~
-<br/><br/>
-
 주석달기
 ---
 주석을 달 문장 \[^1\] [^1]
@@ -81,8 +75,8 @@ _\_기울이기\__
 <br/><br/><br/>
 [ecko_icon alias="fa-bookmark-o"] ecko_icon alias="fa-bookmark-o" 폰트어썸 코드삽입
 <br/><br/><br/>
-[ecko_annotated header="title" annotation="description"]ecko_annotated header="title" annotation="description"[/ecko_annotated]
-<br/><br/><br/>
+[ecko_annotated header="title" annotation="description"]ecko_annotated header="title" annotation="description"][/ecko_annotated]
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 [ecko_toggle style="solid" state="closed" title="title"]ecko_toggle style="solid" state="closed" title="title"[/ecko_toggle]
 <br/><br/><br/>
 [ecko_columns][ecko_columns_left] ecko_columns ecko_columns_left [/ecko_columns_left][ecko_columns_right] ecko_columns_right [/ecko_columns_right][/ecko_columns]
