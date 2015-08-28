@@ -71,6 +71,12 @@ _\_기울이기\__
 <br/><br/>
 
 
+## 숏코드 적용
+---
+[ecko_code_highlight language="javascript"]
+console.log('aaa');
+[/ecko_code_highlight]
+
 
 
 
