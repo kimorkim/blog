@@ -78,8 +78,38 @@ _\_기울이기\__
 [ecko_alert color="green"]ecko_alert color="green"[/ecko_alert]
 [ecko_alert color="orange"]ecko_alert color="orange"[/ecko_alert]
 [ecko_alert color="red"]ecko_alert color="red"[/ecko_alert]
-[ecko_icon alias="f097"] ecko_icon alias="f097" 폰트어썸 코드삽입
+<br/><br/><br/>
+[ecko_icon alias="fa-bookmark-o"] ecko_icon alias="fa-bookmark-o" 폰트어썸 코드삽입
+<br/><br/><br/>
 [ecko_annotated header="title" annotation="description"]ecko_annotated header="title" annotation="description"[/ecko_annotated]
+<br/><br/><br/>
 [ecko_toggle style="solid" state="closed" title="title"]ecko_toggle style="solid" state="closed" title="title"[/ecko_toggle]
-
+<br/><br/><br/>
+[ecko_columns][ecko_columns_left] ecko_columns ecko_columns_left [/ecko_columns_left][ecko_columns_right] ecko_columns_right [/ecko_columns_right][/ecko_columns]
+<br/><br/><br/>
+[ecko_tabs]ecko_tabs[/ecko_tabs]
+<br/><br/><br/>
+[ecko_tab_header id="ID"]ecko_tab_header id="ID"[/ecko_tab_header][ecko_tab_content id="ID"]ecko_tab_content id="ID" [/ecko_tab_content]
+<br/><br/>
+ecko_youtube -- lenFvO3-3OU
+[ecko_youtube]lenFvO3-3OU[/ecko_youtube]
+<br/><br/>
+[ecko_statusmessage]ecko_statusmessage[/ecko_statusmessage]
+<br/><br/>
+[ecko_quote source="source"]ecko_quote source="source"[/ecko_quote]
+<br/><br/>
+ecko_gallery_main -- ecko_gallery_item
+[ecko_gallery_main]
+[ecko_gallery_item]![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
+[/ecko_gallery_item]
+[ecko_gallery_item]
+![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)
+[/ecko_gallery_item]
+[/ecko_gallery_main]
+<br/><br/>
+[ecko_wide]ecko_wide[/ecko_wide]
+<br/><br/>
+[ecko_contrast]ecko_contrast[/ecko_contrast]
+<br/><br/>
+[ecko_fullpage_image]![테스트 이미지](https://lh3.googleusercontent.com/-FUDwGsWsXDQ/Vd6_IGIyukI/AAAAAAAAGJ0/k9UdvNwE6IA/s640-Ic42/pexels-photo.jpg)[/ecko_fullpage_image]
 [^1]: \[^1\]출저, 혹은 덧붙이는 내용
